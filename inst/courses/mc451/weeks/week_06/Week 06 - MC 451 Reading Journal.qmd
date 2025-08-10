@@ -1,0 +1,20 @@
+---
+title: "Week 06 - MC 451 Reading Journal"
+format: html
+editor: visual
+---
+
+# Instructions
+
+This week's reading journal is based on **one** of the three prompts at the end of the assigned chapter.
+
+- **Select** one prompt (1) that interests you most.
+- **Write** 250-300 words responding to that prompt.
+- **Submit** your completed journal to your GitHub repository by **Monday (11:59 PM)**.
+
+# Your Response
+
+Write your journal entry below this line. Replace this text with your own words.
+
+---
+

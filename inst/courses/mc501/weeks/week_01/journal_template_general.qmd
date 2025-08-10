@@ -1,8 +1,0 @@
----
-title: "Journal Template"
-format: html
----
-
-# Journal
-
-> Replace this text with your response (250–300 words) to **one** prompt.
