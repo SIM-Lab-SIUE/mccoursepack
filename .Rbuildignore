@@ -1,0 +1,13 @@
+^.*[.]Rproj$
+^[.]Rproj[.]user$
+^README[.]md$
+^LICENSE$
+^desktop[.]ini$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^inst/INSTRUCTOR-CHECKLIST\.md$
+^inst/COPYRIGHTS$

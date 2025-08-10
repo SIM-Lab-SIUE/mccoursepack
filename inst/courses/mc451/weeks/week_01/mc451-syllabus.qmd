@@ -1,0 +1,263 @@
+## About the Instructor
+
+-   Name: Dr. Alex P. Leith
+-   Email: [aleith\@siue.edu](mailto:aleith@siue.edu)
+-   Office Hours: Mon 13:30–15:30, Wed 13:30-17:30
+-   Office Location: 1017 Dunham Hall
+
+## Course Information
+
+-   Class time: Tue + Thu: 11:00 – 12:15
+-   Classroom: Science East 2268
+-   Course Duration: Aug 18 – Dec 12, 2025
+
+### Teaching Philosophy
+
+My teaching philosophy is grounded in the constructivist theory of learning, which emphasizes active student engagement and reflection as key to constructing knowledge. I am committed to creating an inclusive and supportive learning environment that accommodates diverse learning needs and fosters student success. This philosophy guides my approach to teaching, where I focus on providing practical skills and conceptual frameworks that empower students to navigate and succeed in the ever-evolving field of mass communications. I integrate technology into my teaching to ensure that students are equipped with the most current tools and practices, and I continuously adapt my methods based on student feedback to maintain educational excellence.
+
+### Communicating with the instructor
+
+Other than class or in-person office hours, I am also available electronically through three methods.
+
+Email: [aleith\@siue.edu](mailto:aleith@siue.edu)
+
+-   Preferred method for time-insensitive and confidential communication.
+
+Discord: [APLeith](https://discord.gg/zWrSzR2)
+
+-   Preferred method for time-sensitive or casual communication.
+
+Zoom: [Zoom Scheduler](https://scheduler.zoom.us/ap-leith)
+
+-   Preferred method for long-form or high-interaction communication.
+
+# About the Course
+
+## Course Description
+
+MC 451—Research Methods in Mass Media is a comprehensive course that introduces students to the core research methodologies utilized in mass communications. Through this course, students will explore various quantitative and qualitative research methods, including surveys, experimental designs, content analysis, and in-depth interviews. The course emphasizes developing skills necessary for the design, execution, and presentation of research studies. Students will also engage with professional and ethical principles guiding mass communication research, fostering a deep understanding of critically evaluating and contributing to the field.
+
+## Course Objectives
+
+By the end of this course, students will:
+
+-   **Understand and apply the principles and laws of freedom of speech and press**, particularly within the context of the United States, while also gaining a global perspective on freedom of expression, including the right to dissent, monitor power, and petition for redress of grievances.
+-   **Demonstrate an understanding of the historical role of professionals and institutions in shaping mass communications** and critically evaluate their impact on the development of media systems.
+-   **Recognize and analyze the impact of diversity in mass communications**, including but not limited to gender, race, ethnicity, and sexual orientation, within both domestic and global contexts, and appreciate the significance of this diversity in shaping media content and audience reception.
+-   **Apply ethical principles in conducting and presenting research**, ensuring that all research practices adhere to standards of truth, accuracy, fairness, and respect for diversity.
+-   **Think critically, creatively, and independently** in the design and execution of research projects, enabling the development of robust research questions and applying appropriate methodologies.
+-   **Conduct rigorous research and evaluate information using appropriate methods**, and effectively communicate research findings clearly, concisely, and ethically responsibly.
+
+## Course Goals:
+
+-   Equip students with the ability to engage with mass communication research critically, ensuring they can both conduct independent study and critically assess the research of others.
+-   Foster an appreciation for the role of mass communications in reflecting and shaping societal values, particularly with diverse populations.
+-   Prepare students to apply digital tools and technologies in their research, enabling them to navigate and contribute to the evolving landscape of mass media research.
+-   Develop students' ability to communicate research findings effectively to both academic and non-academic audiences, using appropriate forms and styles.
+
+## Course textbooks
+
+The book for this course is an OER textbook hosted through GitHub. A stable version of the textbook will be hosted in a GitHub repository. For the updated readings for each week, you will be able to access them using the course package in RStudio. Please save the address of the package, as you will need it multiple times a week. Additional readings will be accessible in the weekly download through the package.
+
+## Other course materials
+
+***Software***
+
+This class uses various software to collect, analyze, and visualize data. The software will be available on the classroom computers; however, it is also beneficial to install it on your personal computer to gain experience.
+
+-   R: A free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows, and macOS.
+-   RStudio: An integrated development environment (IDE) for R and Python. RStudio runs on the desktop (Windows, Mac, and Linux).
+    -   Windows 10 or newer
+    -   macOS 13 (Ventura) or newer, Mac M1/M2 requires Rosetta 2
+
+***Hardware***
+
+You are expected to have access to a computer that adheres to the SIUE Mass Communications [recommended laptop requirements](https://www.siue.edu/arts-and-sciences/mass-communications/for-students/laptop-recs.shtml). Even if the classroom has computers available, you will likely need to acquire access to a personal computer to complete all coursework. File management is also essential for this course. You will have access to GitHub for version control; however, I also recommend saving everything to your personal computer and a secondary system. The secondary system can be either an external storage device (e.g., USB, HDD, or SSD drive) or a cloud drive (e.g., OneDrive, Dropbox, or Google Drive), so you can limit data loss. You are unlikely to be accessing large amounts of data, so a 16GB jump drive with USB 2 or higher should be sufficient. I believe an upgrade to USB 3.0 or higher is worth the few extra dollars.
+
+# Course Requirements
+
+## Course activities/assessments
+
+All course activities are intended to prepare you for the final paper and presentation. This will include selecting a topic, analytical exercises, and writing.
+
+## Submitting work
+
+Submissions will always be done through Blackboard. Please review assignment instructions to ensure you submit files in the correct format.
+
+## Technology requirements
+
+Technical requirements for students can be found in this [ITS KnowledgeBase article](https://kb.siue.edu/104656).
+
+# Course Policies and University Policies
+
+## Academic integrity/plagiarism
+
+Students are reminded that the expectations and academic standards outlined in the [Student Academic Code (3C2)](https://www.siue.edu/policies/3c2.shtml) apply to all courses, field experiences and educational experiences at the University, regardless of modality or location.
+
+Plagiarism is using another person’s words or ideas without crediting that person. Per the [SIUE academic dishonesty policy](https://www.siue.edu/policies/table-of-contents/1i6.shtml), plagiarism and cheating will not be tolerated and may lead to failure on an assignment, in class, or dismissal from the University. Students are responsible for complying with University policies about academic honesty as stated in the [University’s Student Academic Conduct Code](http://www.siue.edu/policies/3c2.shtml).
+
+## Diversity and Inclusion
+
+SIUE is always committed to respecting everyone's dignity. To learn, exchange ideas, and support one another, our virtual and physical classrooms must be places where students and teachers feel safe and supported. Systems of oppression permeate our institutions and our classrooms. All students and faculty have the responsibility to co-create a classroom that affirms inclusion, equity, and social justice, where racism, sexism, classism, ableism, heterosexism, xenophobia, and other social pathologies are not tolerated. Violations of this policy will be enforced in line with the SIUE Student Conduct Code.
+
+The [Inclusive Excellence, Education, and Development Hub](https://www.siue.edu/diversity/the-hub/ "https://www.siue.edu/diversity/the-hub/") is an excellent resource for students for support and community. Any person who believes they have experienced or witnessed discrimination or harassment can contact Lindy Wagner, Assistant Vice Chancellor for Inclusive Excellence, Education and Development at (618) 650-3179 or [linwagn\@siue.edu](mailto:linwagn@siue.edu).
+
+## Pregnancy and Newly Parenting Policy
+
+This policy and procedure are established to ensure the protection and equal treatment of pregnant students, students with pregnancy-related medical conditions, including as a result of the termination of pregnancy, and students who become new parents, including parents adopting or fostering to adopt for the first 12 weeks a child is in the home, following Federal and State guidelines and regulations. "New Parents" refers to a parent who has recently welcomed a newborn or adopted a child or is fostering to adopt a child and needs support to mitigate the disruption in academic progress within the first 12 weeks of parenting or a parent that needs support due to medical necessity attributed to pregnancy or delivery of a child; care of newborn; or lactation within the first year of child's life or legal adoption/fostering. Visit [Policies & Procedures - Student Rights and Conduct - Newly Parenting Policy - 3C15](https://www.siue.edu/policies/3c15.shtml) to view the full policy and learn how to request accommodations through the Office of Equal Opportunity, Access, and Title IX Coordination (EOA).
+
+## Technology Privacy Information
+
+We will be using Blackboard in this course. Please review the [Anthology Blackboard Privacy Statement](https://www.anthology.com/trust-center/privacy-statement) to learn how your data is being used and stored.
+
+# Additional Support
+
+## Services for Students Needing Accommodations
+
+It is the policy and practice of Southern Illinois University Edwardsville to create inclusive learning environments. If there are aspects of the instruction or design of this course that result in barriers to your inclusion or to accurate assessment of achievement—such as time-limited exams, inaccessible web content, or the use of non-captioned videos—please get in touch with Accessible Campus Community and Equitable Student Support (ACCESS) as soon as possible. In order to properly determine reasonable accommodations, students must register with ACCESS either online at [siue.edu/access](http://siue.edu/access) or in person in the Student Success Center, Room 1203. You can also reach the office by emailing us at [myaccess\@siue.edu](mailto:myaccess@siue.edu) or by calling [618-650-3726](tel:618-650-3726).
+
+If you feel you would need additional help in the event of an emergency situation, please notify your instructor to be shown the evacuation route and discuss specific needs for assistance.
+
+## Academic and Other Student Services
+
+As an enrolled SIUE student, you have a variety of support available to you, including:
+
+-   [Lovejoy Library Resources](http://www.siue.edu/lovejoylibrary/)
+-   [Academic Success Sessions](https://www.siue.edu/retention/programs/sass.shtml)
+-   [Tutoring Resource Center](https://www.siue.edu/lss/tutoring-resource-center/)
+-   [The Writing Center](http://www.siue.edu/lss/writing/index.shtml)
+-   [Academic Advising](http://www.siue.edu/advising/)
+-   [Financial Aid](https://www.siue.edu/financialaid/)
+-   [Campus Events](http://www.siue.edu/events/)
+-   [Counseling Services](https://www.siue.edu/counseling/)
+
+If you find that you need additional support, please reach out to me and let me know.
+
+## Cougar Care
+
+Dealing with the fast-paced life of a college student can be challenging, and I always support a student's decisions to prioritize mental health. Students have access to counseling services on campus (Student Success Center, 0222). Make an appointment by visiting [cougarcare.siue.edu](http://cougarcare.siue.edu/) or by calling [618-650-2842](tel:618-650-2842).
+
+## Student Success Coaches
+
+[Student success coaches](https://www.siue.edu/retention/about/meet-us.shtml?section=coaches "https://www.siue.edu/retention/about/meet-us.shtml?section=coaches") work across campus to serve the SIUE student population with the tools and resources to adjust to and meet the demands of the college experience. Success coaches provide direct services such as time management support and referrals to campus resources. If you find yourself in need of academic or personal support, or in a situation that is preventing you from being successful in the classroom, please utilize [Starfish](https://www.siue.edu/its/starfish/) to connect with a coach as soon as possible. The sooner you engage, the sooner you can access the information or tools you need to get back on track.
+
+## Technical Support
+
+Since this is a computer-based course, you are expected to have reliable computer and Internet access regularly. It is your responsibility to address any computer problems that might occur. Such problems are not an excuse for delays in meeting expectations or for missing course deadlines.
+
+Contact ITS at \<618-650-5500\> or at [help\@siue.edu](mailto:help@siue.edu) with any technical concerns. You can also check the functionality of University systems, including Blackboard, at the [ITS System Status page](https://status.siue.edu/), or search the [ITS KnowledgeBase](http://kb.siue.edu) for various how-to and troubleshooting guides.
+
+Tips for taking online assessments:
+
+-   Set up a wired (Ethernet) Internet connection on your computer.
+-   Do not use a mobile device, such as a phone or tablet.
+-   Read the instructions and directions carefully.
+-   Be prepared to complete the assessment in the allotted time.
+
+# Assignments
+
+## Overviews
+
+**Weekly Reading Journal (150 points)**
+
+Each Monday night, post a 250–300-word reflection on that week’s assigned chapter. Journals should demonstrate thoughtful engagement with the reading. Upload each post to your GitHub page.
+
+**Introduction Post (25 points)**
+
+Create your public GitHub profile, upload a profile picture, and add a `README.md` introducing yourself. Submit your completed profile on GitHub.
+
+**Syllabus Contract (25 points)**
+
+Prepare a signed syllabus contract in RStudio using Quarto. Your signature must be handwritten (e.g., scanned or photographed), not typed. Render the document to PDF and submit it via Blackboard.
+
+**Project Creation \[R\] (50 points)**
+
+Using the Countdown Handout from the course package, create a new RStudio project. Include a screenshot of your provided numbers and goal in the Markdown text section, and write code in a code chunk that produces the correct answer using only the given digits. The variable `answer` must equal the goal. Submit the completed QMD file to GitHub.
+
+**Meet with Librarian (50 points)**
+
+Schedule and attend a meeting with the librarian (individually or in a small group). Write a brief summary in Quarto describing (1) a possible research topic and (2) how the library can support your work. Render to PDF and submit both the QMD and PDF via Blackboard.
+
+**Annotated Manuscript (25 points)**
+
+Using Zotero, select a peer-reviewed academic article, highlight and mark relevant sections, and add personal annotations. Download the annotated PDF and submit it via Blackboard.
+
+**Topic Selection (25 points)**
+
+In Quarto, write a one-paragraph description of your proposed research topic and general research objective. Include a list of 5–7 relevant peer-reviewed sources.
+
+**Team Contract (25 points)**
+
+Complete a team contract in Quarto outlining your shared research interest, planned division of tasks, and team expectations. Include all members’ handwritten signatures. Render to PDF and submit via Blackboard.
+
+**Definitions Practice (25 points)**
+
+Identify four variables for your research project. Create a table (3 columns: variable name, conceptual definition, operational definition) in a QMD file.
+
+**Scale Selection (50 points)**
+
+Choose at least one validated measurement scale for your survey. Enter it into Qualtrics, generate a PDF of your survey, and submit both the survey link and PDF via Blackboard.
+
+**IRB Proposal (100 points)**
+
+Prepare and submit an exempt, Category 2 IRB proposal through Kuaili. Include all required documents (survey questions, informed consent form, recruitment materials, signed faculty consent). Upload proof of submission to Blackboard.
+
+**Data Wrangling \[R\] (50 points)**
+
+Using provided datasets and the Data Wrangling Handout, complete specified cleaning and transformation tasks in R. Document your process in a QMD file, following class syntax and package guidelines. Upload the QMD file and cleaned datasets to GitHub.
+
+**Describing Data \[R\] (50 points)**
+
+With unmodified datasets, follow the Describing Data Handout to generate descriptive statistics and visualizations. Interpret your results in your own words. Submit the QMD file and rendered PDF to GitHub.
+
+**Inferencing Data \[R\] (50 points)**
+
+Using the Inferencing Data Handout, run the required inferential analyses in R. Explain your results in clear, non-technical language. Submit to GitHub.
+
+**White Paper (50 points)**
+
+Working as a team, produce a 4,000–6,000-word white paper entirely in RStudio using Quarto. The report must integrate text, code, images, and proper bibliographic formatting. The final product should meet professional journalistic standards. Submit the complete project via GitHub.
+
+## Grading Scale
+
+A = 1000-900; B = 899-800; C = 799-700; D = 699-600; F = \< 599
+
+## Grading Deadline
+
+Unless otherwise stated, the deadline for all assignments is Friday by the end of the day (11:59 p.m.).
+
+## Grading Rubric\[s\]
+
+Grading rubrics are very minimal. They are mostly presented as checklists. You will start at full credit and then lose full or partial points for each incorrect item. The checklist will ask you to complete specific tasks and explain how you accomplished them. You are also welcome to contact me with any point disputes. In special cases, you can also address mistakes for partial credit.
+
+## Feedback and Grading Timeline
+
+I hope to post grades with itemized feedback by the Monday following the due date. You can find your grade by clicking the My Grades link on the left menu of the Blackboard course. The itemized feedback is intended to point you to the erred point. Please contact me for any additional clarity.
+
+## Late or Missed Assignments
+
+Late submissions are docked 10% from the maximum grade for each business day (e.g., not weekends or holidays) it is late. The maximum deduction is 50%. You can submit late work up to two weeks after the due date. Any later requires prior approval from the professor.
+
+## Resubmissions
+
+I will provide a weeklong window from the posted due date for resubmissions. If you resubmit, your new grade is the average of the two submissions. The resubmission does not receive the same point reduction. If you submit your assignment late, it is your responsibility to inform me that it was submitted if you are planning to do a resubmission.
+
+## Participation
+
+This course works best with the respectful exchange of ideas, including being sensitive to the views and beliefs expressed during online discussions. Success in this course is closely linked to attendance and participation (e.g., asking questions, participating in activities). I also recommend self-study to ensure the retention of these new skills.
+
+## Regular and Substantive Interaction
+
+Regular and substantive interaction (RSI) is required as part of new US Department of Education regulations for distance (online) education and it supports student learning in all learning environments (online, face-to-face, hybrid, hyflex, etc.). SIUE faculty participate in RSI by initiating frequent and timely opportunities to engage with students. RSI may look different in every class because there are several ways to implement RSI, such as facilitating online discussions, scheduling a Zoom conference with a student, or holding regularly scheduled review sessions before tests. To learn more about RSI, use the Online Tips links for Faculty and Students in your Blackboard course websites or visit the [Faculty Resources for Regular and Substantive Interaction webpage](https://www.siue.edu/educational-outreach/faculty-resources/online/regular-and-substantive-interaction.shtml).
+
+## Recordings of Class Content
+
+To assist with accessibility, I have begun recording course content via Zoom. These recordings will be available through links on Blackboard. These recordings are not an excuse to miss class, as attendance will still be taken.
+
+## Diversity and Inclusion
+
+SIUE is always committed to respecting everyone's dignity. To learn, exchange ideas, and support one another, our virtual and physical classrooms must be places where students and teachers feel safe and supported. Systems of oppression permeate our institutions and our classrooms. All students and faculty have the responsibility to co-create a classroom that affirms inclusion, equity, and social justice, where racism, sexism, classism, ableism, heterosexism, xenophobia, and other social pathologies are not tolerated. Violations of this policy will be enforced in line with the SIUE Student Conduct Code.
+
+## Subject to change notice
+
+All material, assignments, and deadlines are subject to change with prior notice.  It is your responsibility to stay in touch with your instructor, review the course site regularly, or communicate with other students, to adjust as needed if assignments or due dates change.

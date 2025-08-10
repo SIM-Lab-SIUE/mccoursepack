@@ -1,0 +1,11 @@
+---
+title: "MC501 week 02"
+format: html
+---
+
+# MC501 week 02
+
+This is a minimal placeholder. Replace with real weekly content.
+
+## Journal prompts
+- Pick one of the three prompts and write 250–300 words.

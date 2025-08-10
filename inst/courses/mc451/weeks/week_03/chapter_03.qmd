@@ -1,0 +1,155 @@
+# Research Ethics in the Digital Age {.unnumbered}
+
+## The Researcher's First Obligation {.unnumbered}
+
+In 2014, researchers from Facebook and Cornell University published a study that sparked a global firestorm of controversy. The study, titled "Experimental evidence of massive-scale emotional contagion through social networks," involved manipulating the News Feeds of nearly 700,000 unwitting Facebook users. For one week, one group of users was shown a higher proportion of posts with positive emotional content, while another group was shown more posts with negative emotional content. The researchers then analyzed the subsequent posts of these users and found that they were more likely to produce posts that matched the emotional valence of the content they were shown. The conclusion was that emotions can spread through a social network like a virus.
+
+The findings were intriguing, but the public and academic reaction focused less on the results and more on the method. Could a private company, in partnership with academic researchers, ethically manipulate the emotions of hundreds of thousands of people without their knowledge or explicit consent? Facebook argued that users had implicitly consented to this kind of research when they agreed to the platform's Data Use Policy upon signing up. Critics, however, argued that this buried consent was not meaningful and that the study, which involved psychological manipulation without any opportunity for participants to opt out or be debriefed, crossed a significant ethical line. The debate raged in academic journals, news outlets, and across the very social media platforms the study investigated.
+
+This episode serves as a powerful and cautionary introduction to the topic of this chapter: research ethics. Research is not conducted in a sterile, value-neutral vacuum; it is a human activity that involves people, communities, and potentially sensitive information. Consequently, a commitment to ethical conduct is the most fundamental and non-negotiable obligation of any researcher. It is the bedrock upon which the entire enterprise of knowledge creation rests. Without it, public trust is eroded, participants can be harmed, and the credibility of our findings is undermined.
+
+This chapter moves beyond a simple list of rules to instill a practice of ethical reasoning. We will begin by exploring the historical imperative for research ethics, examining the profound failures of the past that led to the creation of our modern system of oversight. We will then delve into the foundational principles that guide all ethical research involving human subjects and see how these principles are put into practice through the Institutional Review Board (IRB). Finally, and most critically, we will turn our attention to the unique and complex ethical challenges of our time. The rise of social media and "big data" has created a host of new dilemmas that often outpace traditional guidelines, forcing us to reconsider core concepts like privacy, consent, and the very definition of a human subject. The goal of this chapter is not to provide a simple checklist for compliance, but to equip you with a durable framework for ethical decision-making, preparing you to navigate the complex moral landscape of communication research in the digital age.
+
+## The Historical Imperative for Research Ethics {.unnumbered}
+
+The formal system of ethical oversight we have today was not born from abstract philosophical debate. It was forged in the crucible of historical tragedy, a direct response to profound and systematic violations of human dignity conducted in the name of science. To understand why we have rules, we must first confront the consequences of a world without them. The need for formal ethical codes is a lesson learned from a history of failures, and two cases in particular stand as stark and enduring reminders of the potential for harm when inquiry becomes detached from moral responsibility: the Nazi medical experiments and the Tuskegee syphilis study.
+
+![Tuskegee Syphilis Study](https://sim-lab-siue.github.io/research-methods/images/Tuskegee-syphilis-study.jpg){width="100%"}
+
+During World War II, Nazi physicians conducted a series of horrific and sadistic medical experiments on prisoners in concentration camps. These experiments, which involved, among other things, freezing people to study hypothermia, infecting them with diseases to test vaccines, and subjecting them to extreme altitudes to observe physiological reactions, were carried out without any regard for the well-being or consent of the victims. The "participants" were not volunteers but prisoners, treated not as human beings but as disposable biological material. After the war, the world learned the full extent of these atrocities during the Nuremberg Trials. The trials resulted in the conviction of many of the responsible physicians and, crucially for the history of research ethics, the creation of the **Nuremberg Code** in 1947. This ten-point code was the first significant international document to mandate ethical conduct in research. Its very first principle, and its most enduring legacy, is the requirement of voluntary informed consent: "The voluntary consent of the human subject is essential."
+
+A second, equally shameful chapter in the history of research misconduct unfolded not in a time of war, but over four decades in the United States. In 1932, the U.S. Public Health Service initiated a study in Macon County, Alabama, to document the natural progression of untreated syphilis in African American men. The project, now infamously known as the **Tuskegee syphilis study**, recruited 600 Black men—399 with syphilis and 201 without—under the guise of providing them with free medical care. The men were never told they had syphilis and were not treated for it. The researchers' goal was to observe the devastating effects of the disease over time. The most egregious ethical violation occurred in the 1940s when penicillin became the standard, effective treatment for syphilis. The men in the study were actively denied this cure so that the researchers could continue their observations. The study continued for forty years, until it was exposed by the press in 1972, leading to a massive public outcry.
+
+The revelations of the Tuskegee study had a profound and lasting impact on research ethics in the United States. It led directly to the passage of the **National Research Act of 1974**, which created the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. This commission was tasked with identifying the basic ethical principles that should underlie all research with human subjects. Their final report, published in 1979 and known as the
+
+**Belmont Report**, became the cornerstone of the modern system of ethical oversight in the United States and the philosophical foundation for the Institutional Review Boards that now govern research at all institutions receiving federal funding. These historical cases, along with others like Stanley Milgram's obedience experiments, which inflicted significant psychological distress on participants, serve as a permanent reminder that good intentions are not enough. A formal, systematic commitment to protecting human subjects is an essential safeguard against the potential for exploitation and harm.
+
+![Participants by role. T = Teacher, L = Learner, E = Experimenter.](https://sim-lab-siue.github.io/research-methods/images/milgram_experiment.png){width="100%"}
+
+## Foundational Principles: The Belmont Report {.unnumbered}
+
+The Belmont Report of 1979 distilled the complex history of ethical debate into three fundamental principles that now serve as the bedrock for the ethical evaluation of all research involving human subjects in the United States: (1) respect for persons, (2) beneficence, and (3) justice. These principles are not a set of specific rules, but rather a framework of general ethical considerations that researchers and review boards must apply to the particular circumstances of any given study. Understanding the logic of these three principles is the first step toward developing a robust capacity for ethical reasoning.
+
+### Respect for Persons {.unnumbered}
+
+The principle of respect for persons is twofold. First, it requires that individuals be treated as autonomous agents. This means recognizing that individuals are capable of deliberation and of making their own choices about their personal goals and actions. The primary application of this principle in research is the requirement of **informed consent**. Researchers must provide potential participants with a full and clear account of the research so that they can make a voluntary and considered decision about whether or not to participate. There can be no coercion or undue influence.
+
+Second, the principle of respect for persons requires that those with diminished autonomy are entitled to special protection. This acknowledges that not all individuals are capable of complete self-determination. Vulnerable populations, such as children, individuals with cognitive impairments, or prisoners, may not be able to fully comprehend the risks and benefits of research or may be in situations that compromise their ability to make a truly voluntary choice. For these populations, the ethical obligation is heightened, often requiring additional safeguards, such as obtaining consent from a legal guardian in addition to the assent of the participant.
+
+### Beneficence {.unnumbered}
+
+The principle of beneficence is often summarized by the maxim, "Do no harm." More completely, it involves two complementary obligations. First, researchers must not harm their participants. Second, they must maximize possible benefits and minimize potential harms. This principle requires the researcher to conduct a careful risk/benefit assessment.
+
+The potential risks of participation in communication research are varied. They can include physical harm (though this is rare), psychological harm (such as stress, anxiety, or damage to self-esteem), social harm (such as stigma or loss of privacy), and economic or legal harm. The researcher must anticipate these risks and to implement procedures to mitigate them as much as possible.
+
+The potential benefits can accrue to the individual participant (e.g., gaining insight into their behavior, receiving a beneficial educational or therapeutic intervention) or, more commonly, to society as a whole through the advancement of knowledge. The ethical calculus of beneficence requires a systematic evaluation: Are the potential benefits of the research significant enough to justify the risks to which participants will be exposed? Research that involves more than minimal risk can only be justified if it also offers the prospect of a significant and direct benefit.
+
+### Justice {.unnumbered}
+
+The principle of justice concerns the fair distribution of the burdens and benefits of research. It asks: Who ought to receive the benefits of research and who ought to bear its burdens? This principle is a direct response to the historical injustices seen in studies like the Tuskegee experiment, where a vulnerable and disadvantaged group (poor, rural African American men) was exploited to generate knowledge that would primarily benefit others.
+
+The principle of justice requires that researchers be fair in their selection of participants. It is unjust, for example, to select participants from a vulnerable group simply because they are easily accessible or because the researcher has a power relationship with them (e.g., a professor using their own students). The burdens of research should not be borne disproportionately by those who are least likely to benefit from its findings. Conversely, the benefits of research should not be restricted to advantaged groups. For example, a study testing a new and potentially beneficial communication intervention should not recruit exclusively from wealthy, well-educated populations if the problem the intervention addresses is also prevalent in poorer, less-educated communities. The principle of justice demands an equitable and fair-minded approach to participant recruitment and selection, ensuring that no group in society is systematically exploited for or excluded from the process of knowledge creation.
+
+## The Institutional Review Board (IRB): From Principle to Practice {.unnumbered}
+
+The abstract principles of the Belmont Report are translated into concrete practice through the work of the Institutional Review Board (IRB). Virtually all universities, hospitals, and other research institutions in the United States that receive federal funding are required to operate an IRB. The IRB is a committee composed of scientists, non-scientists, and community members who are responsible for reviewing all proposed research involving human subjects to ensure that it is conducted ethically and in compliance with federal regulations. The IRB is the primary mechanism of oversight, the gatekeeper that ensures the principles of respect for persons, beneficence, and justice are upheld in every study.
+
+Before a researcher can begin collecting any data from human participants, they must submit a detailed proposal to their institution's IRB. This proposal is a comprehensive document that describes the study's purpose, procedures, potential risks and benefits, and, most importantly, the specific steps the researcher will take to protect the rights and welfare of the participants. The IRB carefully reviews this proposal to determine if the study meets the ethical standards mandated by federal policy.
+
+The IRB assigns each project to one of three levels of review, based on the level of risk it poses to participants 1:
+
+-   **Exempt Review:** This is the lowest level of review, reserved for research that poses no more than minimal risk to subjects and fits into one of several specific exempt categories defined by federal regulations. Examples include research involving the analysis of existing, publicly available data where individuals cannot be identified; research conducted in established educational settings involving everyday educational practices; and research involving anonymous surveys on non-sensitive topics.
+
+-   **Expedited Review:** This level of review is for research that involves no more than minimal risk but does not qualify for exempt status. "Minimal risk" is defined as the probability and magnitude of harm or discomfort anticipated in the research are not greater in and of themselves than those ordinarily encountered in daily life or during the performance of routine physical or psychological examinations or tests. Many standard communication research methods, such as recorded interviews, focus groups, or surveys that collect identifiable but non-sensitive information, typically fall into this category.
+
+-   **Full Board Review:** This is the most stringent level of review and is required for any research that involves more than minimal risk to participants. It is also necessary for all research involving vulnerable populations, such as children, prisoners, pregnant women, or individuals with cognitive impairments. In a full board review, the entire IRB committee meets to discuss the proposal, weigh the risks and benefits, and vote on whether to approve the study.
+
+The IRB has the authority to approve a study, to require modifications to the study before it can be approved, or to disapprove a study altogether. Student researchers must understand that they must receive formal IRB approval before they begin recruiting participants or collecting any data. Proceeding without IRB approval is a serious ethical and institutional violation. While the IRB process can sometimes feel like a bureaucratic hurdle, its purpose is essential: to provide an independent, objective review that ensures the researcher's enthusiasm for their project does not blind them to their fundamental ethical obligations.
+
+## Core Ethical Obligations in Practice {.unnumbered}
+
+While the IRB provides procedural oversight, the day-to-day practice of ethical conduct is the responsibility of the individual researcher. Several core obligations flow directly from the Belmont principles and must be integrated into every stage of the research process, from design to data collection to reporting.
+
+### The Process of Informed Consent {.unnumbered}
+
+Informed consent is the cornerstone of ethical research with human subjects. It is the practical application of the principle of respect for persons. It is critical to understand that informed consent is not merely a signature on a form, but a process of communication between the researcher and the participant that ensures the participant's decision to be in the study is truly voluntary and well-informed. A valid informed consent process must satisfy four key elements.
+
+#### Competence {.unnumbered}
+
+The participant must be competent to make a decision. This means they must have the mental capacity to understand the information presented to them and to appreciate the consequences of their choice. This is why special protections are needed for children or individuals with cognitive impairments.
+
+#### Voluntarism {.unnumbered}
+
+Participation must be truly voluntary, free from any coercion or undue influence. Coercion can be subtle. For example, a professor offering a large amount of extra credit to students who participate in their study could be seen as coercive, as students may feel they have no real choice but to participate to protect their grade. Researchers must ensure that potential participants feel completely free to decline participation without any negative consequences.
+
+#### Full Information {.unnumbered}
+
+Participants must be given all the information that might reasonably influence their decision to participate. This is typically done through a written consent form, which should be written in clear, non-technical language. The form must describe the purpose of the study, what the participant will be asked to do, the duration of their involvement, the potential risks and benefits, the procedures for ensuring privacy, and their right to withdraw from the study at any time without penalty.
+
+#### Comprehension {.unnumbered}
+
+The participant must be able to understand the information that is provided. It is not enough to simply hand someone a form; the researcher has an obligation to ensure the participant comprehends it. This may involve explaining the study orally, answering questions, and giving the participant ample time to consider their decision.
+
+### Privacy, Anonymity, and Confidentiality {.unnumbered}
+
+Protecting the privacy of research participants is a fundamental ethical obligation. This is achieved through the related but distinct practices of anonymity and confidentiality.
+
+#### Privacy {.unnumbered}
+
+Privacy refers to a participant's right to control information about themselves and to decide when and under what conditions others have access to that information. Research, by its nature, often involves asking people to share personal information, which represents an intrusion into their privacy. The ethical researcher minimizes this intrusion by collecting only the information that is absolutely necessary for the research question.
+
+#### Anonymity {.unnumbered}
+
+Anonymity means that the researcher cannot link any of the data collected to a specific individual participant. In a truly anonymous study, there is no identifying information collected at all. For example, an online survey that does not collect names, email addresses, or IP addresses would be anonymous. Perfect anonymity is the strongest form of privacy protection, but it is not always possible or desirable (e.g., in a longitudinal study where you need to re-contact participants).
+
+#### Confidentiality {.unnumbered}
+
+Confidentiality is a promise from the researcher not to publicly disclose any identifying information about a participant, even though the researcher may know the participant's identity. This is the standard for most qualitative research, such as in-depth interviews. The researcher knows who they interviewed, but they promise to protect that person's identity in any reports or publications. This is typically achieved by assigning pseudonyms to participants and altering any identifying details in quotes or descriptions. Researchers must also take practical steps to ensure confidentiality, such as storing consent forms and data in separate, secure locations (e.g., locked file cabinets or password-protected, encrypted computer files).
+
+### Avoiding Harm and the Use of Deception {.unnumbered}
+
+The principle of beneficence requires researchers to anticipate and mitigate any potential for harm to participants. In communication research, the most common risks are psychological or social. A study on a sensitive topic, for example, might cause participants to experience stress, anxiety, or embarrassment. The researcher must have a plan to minimize these risks. This often involves a process called **debriefing**. After the participant has completed the study, the researcher takes time to fully explain the study's purpose, answer any questions, and address any negative feelings the study may have produced. During the debriefing, participants should also be given the opportunity to withdraw their data from the study if they wish.
+
+The issue of harm is particularly salient in studies that involve **deception**. Deception occurs when a researcher intentionally misleads participants about the true purpose of the study or the events that will transpire. For example, a researcher might tell participants they are taking a test of creativity when the real purpose is to see how they respond to failure. Deception is ethically problematic because it violates the principle of informed consent. Professional guidelines, such as those from the American Psychological Association, state that deception should only be used as a last resort, under two conditions: (1) when there is no viable, non-deceptive alternative method to study the phenomenon, and (2) when the potential scientific or applied value of the research outweighs the ethical costs of the deception. When deception is used, a thorough debriefing is absolutely mandatory to dehoax (reveal the deception) and desensitize (address any negative feelings) the participants.
+
+## The New Frontier: Research Ethics in the Digital Age {.unnumbered}
+
+The rise of the internet, and particularly social media, has created a host of new and complex ethical challenges that often outpace our traditional guidelines. The logic of the IRB, which was built for studies involving direct, intentional interaction between a researcher and a participant, is often ill-suited for research involving vast amounts of "found" public data. As one group of scholars notes, current ethical guidelines are often "not fit for purpose when applied to social media data." Navigating this new frontier requires a profound shift in ethical thinking, moving from a rule-based approach to a more flexible, context-sensitive, and continuous process of ethical reasoning.
+
+### The Public/Private Fallacy {.unnumbered}
+
+A central challenge in digital research is the blurring of the lines between public and private spaces. A tweet, a public Facebook post, or a comment on a news website exists in a gray area. From a legal and technical standpoint, it is public information. However, the user who created that content may not have a reasonable expectation that their post will be archived, systematically analyzed, and quoted in an academic study. As researchers danah boyd and Kate Crawford have noted, "just because data is accessible does not make it ethical."
+
+Research shows that users' expectations of privacy are highly context-dependent. They have different expectations for a professional platform like LinkedIn than for a more personal one like Facebook. They are more sensitive about topics like health or politics than about their taste in music. The ethical researcher cannot simply rely on a technical definition of "public." Instead, they must consider the norms and expectations of the specific online community they are studying to determine whether a site is truly public in practice.
+
+### The Challenge of Informed Consent at Scale {.unnumbered}
+
+In a traditional study, obtaining informed consent is a direct, one-to-one process. In a "big data" study that might involve analyzing millions of tweets or forum posts, it is practically impossible to obtain individual informed consent from every user whose data is included. This has led to a contentious debate among researchers. One view holds that for information shared on public platforms, informed consent is not necessary. The other perspective argues that researchers should always make an effort to secure consent, regardless of the platform.
+
+There is no easy answer to this dilemma. Some researchers have adopted a practice of contacting the administrators or moderators of an online community to seek permission to conduct research, treating them as gatekeepers for the community. Others may post a general notice in the community announcing their research presence. However, these solutions are imperfect. The core issue remains that many people whose data is being used are unaware they are research subjects, a direct violation of the spirit, if not the letter, of the principle of respect for persons.
+
+### Anonymity and Traceability in the Digital Age {.unnumbered}
+
+The promise of anonymity is also much harder to keep in the digital age. A common practice in qualitative research is to quote participants but to anonymize them by removing their names. However, in the online world, this is often insufficient. Quoting a supposedly "anonymized" tweet or forum post verbatim often allows anyone to find the original post, and thus the user's profile, through a simple web search. This makes true anonymity exceedingly difficult to guarantee.
+
+This problem is compounded by the fact that some platforms' terms of service may actually conflict with the ethical principle of anonymity. For example, a platform's rules might require attribution for any content used, placing the researcher in a bind between their ethical obligation to protect their participant and their legal obligation to the platform. Researchers must be transparent with participants about these limitations and find ways to balance the opposing needs for anonymity and acknowledgment. This might involve heavily paraphrasing quotes rather than using them verbatim, or creating composite characters that represent the views of several participants.
+
+### A Process-Based Approach to Digital Ethics {.unnumbered}
+
+The complexities of the digital research environment make it clear that a simple, one-size-fits-all checklist is no longer adequate. Ethical decision-making in the digital age cannot be a one-time event that happens during the IRB approval process. Instead, it must be an ongoing, reflexive process that continues throughout the entire lifecycle of a research project.
+
+Professional organizations like the Association of Internet Researchers (AoIR) have developed ethical guidelines that champion this process-based approach. The AoIR guidelines do not provide definitive answers. Instead, they provide a series of critical questions that researchers should ask themselves, encouraging a case-by-case evaluation based on the specific context of the research. The fundamental question must shift from "Can I use this data?" to a more nuanced and responsible set of inquiries: "Should I use this data? What are the potential harms to the individuals and communities who created it, even if they are unaware of my research? How can I best uphold the core principles of respect, beneficence, and justice in this new and complex environment?" This reflexive, critical, and deeply humane approach is essential for conducting responsible and trustworthy scholarship in the digital age.
+
+## Conclusion: The Responsible Researcher {.unnumbered}
+
+A commitment to ethical conduct is the defining characteristic of a responsible researcher. It is not an appendix to the research process, but its very foundation. As we have seen, our modern ethical framework was born from historical atrocities, reminding us of the profound human cost of inquiry that is untethered from moral principles. The foundational tenets of the Belmont Report—respect for persons, beneficence, and justice—provide an enduring guide for our work, translated into practice through the oversight of the IRB and the diligent application of procedures like informed consent and the protection of privacy.
+
+However, the dawn of the digital age has presented us with a new and uncharted ethical landscape. The traditional rules, while still necessary, are no longer sufficient. The blurred lines between public and private, the challenges to meaningful consent and anonymity, and the sheer scale of digital data demand a more sophisticated and reflexive approach to ethical reasoning. As students of mass communication, you are uniquely positioned at the epicenter of these changes. The skills of ethical analysis you develop in this course will be indispensable, not only for the research projects you may conduct but for your future careers as creators, managers, and critical consumers of information in a world where these complex ethical dilemmas are becoming an inescapable part of our daily lives. Ultimately, the goal is to move beyond mere compliance and to internalize a deep and abiding sense of responsibility—to our participants, to our discipline, and to the society our research aims to serve.
+
+## Journal Prompts {.unnumbered}
+
+1.  Choose either the Nazi medical experiments or the Tuskegee syphilis study and reflect on what that case teaches us about the need for ethical safeguards in research. Why do you think these events had such a lasting impact on how research is conducted today? How might studying these cases shape your behavior as a future researcher?
+
+2.  Imagine you are researching a public social media platform like X (formerly Twitter), Reddit, or TikTok. Would you consider the content you’re analyzing to be public or private? Would you need to obtain informed consent? Why or why not? Reflect on the ethical gray areas that emerge in digital research and how you would navigate them.
+
+3.  Think ahead to a study you might conduct as part of this course. What would it look like to fully honor the principles of respect for persons, beneficence, and justice in your research? Identify at least one concrete action you would take during your study’s design or data collection to uphold each of these three ethical principles.
