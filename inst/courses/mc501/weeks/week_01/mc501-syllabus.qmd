@@ -7,8 +7,8 @@
 
 ## Course Information
 
--   Class time: Tue + Thu: 11:00 – 12:15
--   Classroom: Science East 2268
+-   Class time: Wed: 18:00 – 20:50
+-   Classroom: Dunham Hall 1015
 -   Course Duration: Aug 18 – Dec 12, 2025
 
 ### Teaching Philosophy
@@ -35,25 +35,45 @@ Zoom: [Zoom Scheduler](https://scheduler.zoom.us/ap-leith)
 
 ## Course Description
 
-MC 451—Research Methods in Mass Media is a comprehensive course that introduces students to the core research methodologies utilized in mass communications. Through this course, students will explore various quantitative and qualitative research methods, including surveys, experimental designs, content analysis, and in-depth interviews. The course emphasizes developing skills necessary for the design, execution, and presentation of research studies. Students will also engage with professional and ethical principles guiding mass communication research, fostering a deep understanding of critically evaluating and contributing to the field.
+This graduate course is designed to give you basic proficiency in a variety of research techniques that mass communication professionals use to gather information to make decisions or understand a phenomenon. It includes segments on the use of electronic databases and data sets, surveys, focus groups, content analysis, and others. In this class, you will conduct your own primary research and present the findings in a written paper and oral presentation.
 
 ## Course Objectives
 
-By the end of this course, students will:
+This course will introduce you to social science research techniques as they have been applied to journalism, media, and communication practice and theory. As a result of taking this course, you will be able to:
 
--   **Understand and apply the principles and laws of freedom of speech and press**, particularly within the context of the United States, while also gaining a global perspective on freedom of expression, including the right to dissent, monitor power, and petition for redress of grievances.
--   **Demonstrate an understanding of the historical role of professionals and institutions in shaping mass communications** and critically evaluate their impact on the development of media systems.
--   **Recognize and analyze the impact of diversity in mass communications**, including but not limited to gender, race, ethnicity, and sexual orientation, within both domestic and global contexts, and appreciate the significance of this diversity in shaping media content and audience reception.
--   **Apply ethical principles in conducting and presenting research**, ensuring that all research practices adhere to standards of truth, accuracy, fairness, and respect for diversity.
--   **Think critically, creatively, and independently** in the design and execution of research projects, enabling the development of robust research questions and applying appropriate methodologies.
--   **Conduct rigorous research and evaluate information using appropriate methods**, and effectively communicate research findings clearly, concisely, and ethically responsibly.
+-   **Knowledge and understanding**
 
-## Course Goals:
+    -   demonstrate an understanding of the principles and rationale of a range of research paradigms;
 
--   Equip students with the ability to engage with mass communication research critically, ensuring they can both conduct independent study and critically assess the research of others.
--   Foster an appreciation for the role of mass communications in reflecting and shaping societal values, particularly with diverse populations.
--   Prepare students to apply digital tools and technologies in their research, enabling them to navigate and contribute to the evolving landscape of mass media research.
--   Develop students' ability to communicate research findings effectively to both academic and non-academic audiences, using appropriate forms and styles.
+    -   recognize the advantages and disadvantages of specific methods of analysis;
+
+    -   master the concepts and technical vocabulary of media and communication research, and be able to use this language appropriately;
+
+    -   comprehend the relationship between theory and research methods in the study of communication as a social science;
+
+    -   become an intelligent consumer of research—able to read, understand, explain and critically evaluate communication and other research reported in scholarly journals as well as in the popular press;
+
+-   **Skills and capacities**
+
+    -   formulate research questions, select appropriate methods, make analysis using relevant theory and method and write a research report;
+
+    -   apply research methods in the area media and communication;
+
+    -   apply APA writing style;
+
+    -   apply research software such as RStudio;
+
+-   **Evaluative capacity and approach**
+
+    -   discuss and analyze ethical problems connected to research in the area media and communication;
+
+    -   show awareness of risks and harms of different research methods and designs in media and communication research;
+
+-   **Creating and producing**
+
+    -   original research work that helps to understand a media or communication problem.
+
+    -   professional research presentations in multiple modalities.
 
 ## Course textbooks
 
@@ -160,7 +180,7 @@ Tips for taking online assessments:
 
 **Weekly Reading Journal (150 points)**
 
-Each Monday night, post a 250–300-word reflection on that week’s assigned chapter. Journals should demonstrate thoughtful engagement with the reading. Upload each post to your GitHub page.
+Each Monday night, post a 450–500-word reflection on that week’s assigned chapter. Journals should demonstrate thoughtful engagement with the reading. Upload each post to your GitHub page.
 
 **Introduction Post (25 points)**
 
@@ -180,21 +200,17 @@ Schedule and attend a meeting with the librarian (individually or in a small gro
 
 **Annotated Manuscript (25 points)**
 
-Using Zotero, select a peer-reviewed academic article, highlight and mark relevant sections, and add personal annotations. Download the annotated PDF and submit it via Blackboard.
+Using Zotero, select three peer-reviewed academic articles, highlight and mark relevant sections, and add personal annotations. Download the annotated PDFs and submit them via Blackboard.
 
 **Topic Selection (25 points)**
 
 In Quarto, write a one-paragraph description of your proposed research topic and general research objective. Include a list of 5–7 relevant peer-reviewed sources.
 
-**Team Contract (25 points)**
-
-Complete a team contract in Quarto outlining your shared research interest, planned division of tasks, and team expectations. Include all members’ handwritten signatures. Render to PDF and submit via Blackboard.
-
 **Definitions Practice (25 points)**
 
 Identify four variables for your research project. Create a table (3 columns: variable name, conceptual definition, operational definition) in a QMD file.
 
-**Scale Selection (50 points)**
+**Scale Selection (75 points)**
 
 Choose at least one validated measurement scale for your survey. Enter it into Qualtrics, generate a PDF of your survey, and submit both the survey link and PDF via Blackboard.
 
@@ -206,17 +222,17 @@ Prepare and submit an exempt, Category 2 IRB proposal through Kuaili. Include al
 
 Using provided datasets and the Data Wrangling Handout, complete specified cleaning and transformation tasks in R. Document your process in a QMD file, following class syntax and package guidelines. Upload the QMD file and cleaned datasets to GitHub.
 
-**Describing Data \[R\] (50 points)**
+**Describing Data \[R\] (100 points)**
 
 With unmodified datasets, follow the Describing Data Handout to generate descriptive statistics and visualizations. Interpret your results in your own words. Submit the QMD file and rendered PDF to GitHub.
 
-**Inferencing Data \[R\] (50 points)**
+**Inferencing Data \[R\] (100 points)**
 
 Using the Inferencing Data Handout, run the required inferential analyses in R. Explain your results in clear, non-technical language. Submit to GitHub.
 
-**White Paper (50 points)**
+**Research Paper (200 points)**
 
-Working as a team, produce a 4,000–6,000-word white paper entirely in RStudio using Quarto. The report must integrate text, code, images, and proper bibliographic formatting. The final product should meet professional journalistic standards. Submit the complete project via GitHub.
+Produce a 6,000–8,000-word APA-style research paper in Microsoft Word. You must also submit a complete RProject with your work shown in a QMD file. The final product should meet professional journalistic standards. Submit the manuscript on Blackboard and the project via GitHub.
 
 ## Grading Scale
 

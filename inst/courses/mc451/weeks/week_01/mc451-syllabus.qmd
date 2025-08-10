@@ -206,15 +206,15 @@ Prepare and submit an exempt, Category 2 IRB proposal through Kuaili. Include al
 
 Using provided datasets and the Data Wrangling Handout, complete specified cleaning and transformation tasks in R. Document your process in a QMD file, following class syntax and package guidelines. Upload the QMD file and cleaned datasets to GitHub.
 
-**Describing Data \[R\] (50 points)**
+**Describing Data \[R\] (100 points)**
 
 With unmodified datasets, follow the Describing Data Handout to generate descriptive statistics and visualizations. Interpret your results in your own words. Submit the QMD file and rendered PDF to GitHub.
 
-**Inferencing Data \[R\] (50 points)**
+**Inferencing Data \[R\] (100 points)**
 
 Using the Inferencing Data Handout, run the required inferential analyses in R. Explain your results in clear, non-technical language. Submit to GitHub.
 
-**White Paper (50 points)**
+**White Paper (200 points)**
 
 Working as a team, produce a 4,000–6,000-word white paper entirely in RStudio using Quarto. The report must integrate text, code, images, and proper bibliographic formatting. The final product should meet professional journalistic standards. Submit the complete project via GitHub.
 
