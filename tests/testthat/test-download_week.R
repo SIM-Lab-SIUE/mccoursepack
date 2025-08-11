@@ -6,14 +6,14 @@ test_that("download_week copies files when present and no-ops for empty weeks", 
   skip_if(!length(courses), "No course directories found under inst/courses")
   
   for (course in courses) {
-    weeks <- list_weeks(course)
+    weeks <- list_weeks(course)              # returns like "week_01"
     skip_if(!length(weeks), paste("No weeks found for", course))
     
     for (wk in weeks) {
       td <- withr::local_tempdir()
-      expect_no_error(download_week(course, wk, dest = td), info = paste(course, wk))
+      expect_no_error(download_week(course, wk, dest = td))
       
-      src <- file.path(base, course, "weeks", paste0("week_", sprintf("%02d", as.integer(wk))))
+      src <- file.path(base, course, "weeks", wk)
       src_files <- list.files(src, recursive = TRUE, all.files = TRUE, full.names = TRUE, no.. = TRUE)
       src_files <- src_files[!dir.exists(src_files)]
       
@@ -21,13 +21,13 @@ test_that("download_week copies files when present and no-ops for empty weeks", 
       dest_files <- dest_files[!dir.exists(dest_files)]
       
       if (length(src_files) == 0L) {
-        expect_equal(length(dest_files), 0L, info = paste("empty week should yield empty copy:", course, wk))
+        expect_equal(length(dest_files), 0L)
       } else {
         if (!length(dest_files)) {
           cat("\nDEBUG:", course, wk, "dest empty; src listing:\n")
           print(list.files(src, recursive = TRUE))
         }
-        expect_gt(length(dest_files), 0L, info = paste("files should be copied for", course, wk))
+        expect_gt(length(dest_files), 0L)
       }
     }
   }

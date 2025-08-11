@@ -12,11 +12,11 @@ mccourse_self_test()
 \code{TRUE} (invisibly) if templates are discoverable; otherwise, an error.
 }
 \description{
-Checks that the installed package can see the templates directory, lists courses
-(if any), and reports available weeks. Returns \code{TRUE} invisibly on success.
+Checks that installed templates are discoverable and reports available weeks.
+Returns \code{TRUE} invisibly on success.
 }
 \examples{
-\dontrun{
+\donttest{
 mccourse_self_test()
 }
 }

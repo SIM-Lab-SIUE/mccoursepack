@@ -2,7 +2,7 @@ Package: mccoursepack
 Type: Package
 Title: Course Materials and Weekly Scaffolds for MC 451 and MC 501
 Version: 0.1.0
-Authors@R: person("AP", "Leith", email = "your_email@siue.edu", role = c("aut","cre"))
+Authors@R: person("AP", "Leith", email = "apleith@siue.edu", role = c("aut","cre"))
 Description: Provides student-facing scaffolds (Quarto templates and starter files)
  for weekly work in MC 451 and MC 501. Students install or update the package
  and use helper functions to copy the appropriate week's materials into a
@@ -12,6 +12,6 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends: R (>= 4.0)
-Imports: utils
-Suggests: testthat (>= 3.0.0), withr
+Imports: cli, fs, pak, remotes, rlang, rstudioapi, stats, utils
+Suggests: testthat (>= 3.0.0), tibble, withr
 Config/testthat/edition: 3

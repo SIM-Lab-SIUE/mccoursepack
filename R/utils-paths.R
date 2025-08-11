@@ -1,9 +1,6 @@
 # Internal helpers for course + week paths. Not exported.
 
-.mcp_courses_root <- function() {
-  # installed location of 'inst/courses'
-  system.file("courses", package = "mccoursepack")
-}
+.mcp_courses_root <- function() system.file("courses", package = "mccoursepack")
 
 .mcp_course_weeks_root <- function(course) {
   base <- .mcp_courses_root()

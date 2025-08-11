@@ -4,22 +4,33 @@
 \alias{download_week}
 \title{Download a week's template into a destination directory}
 \usage{
-download_week(week, dest = ".")
+download_week(course, week = NULL, dest = ".")
 }
 \arguments{
-\item{week}{Integer or string like "01".}
+\item{course}{Course name (e.g., "mc451", "mc501"). For back-compat you may
+pass only \code{week} as the first argument if exactly one course is installed.}
+
+\item{week}{Integer or string like \code{"01"} or \code{"week_01"}.}
 
 \item{dest}{Destination directory (created if needed). Defaults to current dir.}
 }
 \value{
-(invisibly) a list with \code{dest}, \code{week}, and \code{n_copied}.
+(invisibly) a list with \code{dest}, \code{course}, \code{week}, and \code{n_copied}.
 }
 \description{
-Copies the installed files for a given week into \code{dest}. If the week template
-is empty (e.g., holiday weeks), this succeeds quietly and copies nothing.
+Copies the installed files for a given \code{course} and \code{week} into \code{dest}.
+If the week template is empty (e.g., holiday weeks), this succeeds quietly
+and copies nothing.
+}
+\details{
+Backward compatibility: if you call \code{download_week(1, dest)}, it assumes there
+is a single installed course and uses it. If multiple courses exist, you must
+supply the \code{course} argument.
 }
 \examples{
 \dontrun{
-download_week(1, dest = ".")
+# Use a temporary folder in examples/checks (portable on Windows)
+d <- tempdir()
+download_week("mc451", 1, dest = d)
 }
 }

@@ -4,23 +4,34 @@
 \alias{list_weeks}
 \title{List available week templates}
 \usage{
-list_weeks(course)
+list_weeks(course = NULL)
 
-list_weeks(course)
+list_weeks(course = NULL)
 }
 \arguments{
-\item{course}{e.g., "mc451"}
+\item{course}{Optional course directory name (e.g., "mc451", "mc501").}
 }
 \value{
 A character vector of available weeks like \code{"01"}, \code{"02"}, … (no prefix).
+
+A character vector like "week_01", "week_02", ...
 }
 \description{
 Lists installed week directories of the form \code{week01}, \code{week02}, … If you pass
 a course name that exists under \verb{inst/templates/<course>/weekXX}, it lists the
 weeks for that course. If \code{course} is \code{NULL} (default), it looks directly under
 \verb{inst/templates/}.
+
+If \code{course} is supplied, returns the \strong{directory names} ("week_01", "week_02", ...).
+If \code{course} is \code{NULL}, aggregates across courses and returns unique week dir names.
 }
 \examples{
 list_weeks()
 list_weeks("mc451")
+# Aggregate across courses (safe in examples):
+list_weeks()
+# For a specific course (if installed):
+\donttest{
+list_weeks("mc451")
+}
 }

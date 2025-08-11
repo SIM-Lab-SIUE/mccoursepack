@@ -11,3 +11,4 @@
 ^pkgdown$
 ^inst/INSTRUCTOR-CHECKLIST\.md$
 ^inst/COPYRIGHTS$
+^LICENSE\.md$

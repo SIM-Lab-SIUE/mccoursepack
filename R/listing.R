@@ -1,7 +1,4 @@
 #' List available courses that have week templates installed
-#'
-#' Looks under the installed package path 'inst/courses/<course>/weeks/week_XX'.
-#'
 #' @return A character vector of course names (e.g., "mc451", "mc501").
 #' @examples
 #' list_courses()
@@ -10,7 +7,6 @@ list_courses <- function() {
   base <- .mcp_courses_root()
   if (identical(base, "")) return(character(0))
   dirs <- dir(base, full.names = FALSE, recursive = FALSE)
-  # keep those that contain a 'weeks' dir with at least one 'week_XX'
   keep <- vapply(dirs, function(d) {
     wr <- file.path(base, d, "weeks")
     dir.exists(wr) && length(dir(wr, pattern = "^week_\\d+$", full.names = FALSE)) > 0
@@ -20,26 +16,34 @@ list_courses <- function() {
 
 #' List available week templates
 #'
-#' If `course` is supplied, returns the weeks (e.g., "01", "02", ...) for that course.
-#' If `course` is `NULL`, it aggregates weeks **across all installed courses** and
-#' returns the sorted unique set. This ensures `list_weeks()` runs safely in examples.
+#' If `course` is supplied, returns the **directory names** ("week_01", "week_02", ...).
+#' If `course` is `NULL`, aggregates across courses and returns unique week dir names.
 #'
 #' @param course Optional course directory name (e.g., "mc451", "mc501").
-#' @return A character vector of available week numbers, without the "week_" prefix.
+#' @return A character vector like "week_01", "week_02", ...
 #' @examples
-#' # Aggregate weeks across all installed courses (safe for examples):
+#' # Aggregate across courses (safe in examples):
 #' list_weeks()
-#' # Weeks for a specific course (if installed):
+#' # For a specific course (if installed):
 #' \donttest{
 #' list_weeks("mc451")
 #' }
 #' @export
 list_weeks <- function(course = NULL) {
+  base <- .mcp_courses_root()
+  if (identical(base, "")) return(character(0))
+  
   if (is.null(course)) {
     crs <- list_courses()
     if (!length(crs)) return(character(0))
-    uniq <- unique(unlist(lapply(crs, .mcp_weeks_for_course), use.names = FALSE))
+    uniq <- unique(unlist(lapply(crs, function(c) {
+      wr <- file.path(base, c, "weeks")
+      dir(wr, pattern = "^week_\\d+$", full.names = FALSE)
+    }), use.names = FALSE))
     return(sort(uniq))
   }
-  .mcp_weeks_for_course(course)
+  
+  wr <- .mcp_course_weeks_root(course)
+  if (!nzchar(wr) || !dir.exists(wr)) return(character(0))
+  sort(dir(wr, pattern = "^week_\\d+$", full.names = FALSE))
 }

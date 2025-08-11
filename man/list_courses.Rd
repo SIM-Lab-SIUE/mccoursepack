@@ -10,6 +10,8 @@ list_courses()
 }
 \value{
 A character vector of course directory names found under \code{inst/templates}.
+
+A character vector of course names (e.g., "mc451", "mc501").
 }
 \description{
 If your package organizes templates by course (e.g., \code{inst/templates/mc451/week01}),
@@ -17,5 +19,6 @@ this returns the list of course directories (e.g., \code{mc451}, \code{mc501}). 
 it returns an empty character vector.
 }
 \examples{
+list_courses()
 list_courses()
 }
