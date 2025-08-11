@@ -12,7 +12,7 @@
   if (length(missing)) {
     cli::cli_abort(c(
       "Week {week} for {course} is missing required files:",
-      setNames(as.list(missing), rep("x", length(missing)))
+      stats::setNames(as.list(missing), rep("x", length(missing)))
     ))
   }
   TRUE

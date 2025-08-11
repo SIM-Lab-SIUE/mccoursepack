@@ -58,6 +58,8 @@ check_course_tree <- function(course = "mc451", week = 1) {
 #' Quick environment self-test
 #' @export
 mccourse_self_test <- function(course = "mc451", week = 1) {
+  ver <- as.character(utils::packageVersion("mccoursepack"))
+  cli::cli_inform("mccoursepack version: {ver}")
   tibble::tibble(
     r        = check_r_min("4.3.0"),
     rstudio  = check_rstudio(),

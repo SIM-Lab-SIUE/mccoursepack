@@ -9,6 +9,16 @@
 #' @return (invisibly) a tibble listing file paths and copy status
 #' @export
 download_week <- function(course, week, dest = NULL, overwrite = c("ask","TRUE","FALSE")) {
+  # --- optional auto-update gate ---------------------------------------------
+  auto_env   <- Sys.getenv("MCCOURSEPACK_AUTO_UPDATE", "")
+  auto_opt   <- getOption("mccoursepack.auto_update", FALSE)
+  auto_on    <- isTRUE(auto_opt) || identical(auto_env, "1") || identical(tolower(auto_env), "true")
+  if (auto_on) {
+    # Try to update; don't error if update tooling isn't present
+    try(mccourse_update(update = "ask", quiet = TRUE), silent = TRUE)
+  }
+  # ---------------------------------------------------------------------------
+
   overwrite <- match.arg(as.character(overwrite), c("ask","TRUE","FALSE"))
   stopifnot(is.character(course), length(course) == 1, grepl("^mc(451|501)$", course))
   stopifnot(is.numeric(week), length(week) == 1, week >= 1)
