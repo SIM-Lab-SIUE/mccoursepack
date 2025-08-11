@@ -13,5 +13,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends: R (>= 4.0)
 Imports: cli, fs, pak, remotes, rlang, rstudioapi, stats, utils
-Suggests: testthat (>= 3.0.0), tibble, withr
+Suggests: testthat (>= 3.0.0), tibble, withr, quarto, tinytex, tidyverse, janitor, here, knitr, rmarkdown
 Config/testthat/edition: 3
