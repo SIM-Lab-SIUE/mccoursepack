@@ -1,9 +1,14 @@
 project:
   type: website
   output-dir: _site
+
 format:
+  pdf:
+    toc: true
+    number-sections: false
   html:
     theme: cosmo
     toc: true
     smooth-scroll: true
+
 editor: visual
